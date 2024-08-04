@@ -1,0 +1,9 @@
+name: mlflow_tutorial
+
+conda_env: conda.yaml
+
+entry_points:
+  main:
+    parameters:
+      max_depth: int
+    command: "python train.py {max_depth}"

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/899675162326840953/496aa790dfcc497ca819ede8ef30f254/artifacts
+deleted_time: 1722698494651
+end_time: 1722698446435
+entry_point_name: ''
+experiment_id: '899675162326840953'
+lifecycle_stage: deleted
+run_id: 496aa790dfcc497ca819ede8ef30f254
+run_name: shivering-calf-998
+run_uuid: 496aa790dfcc497ca819ede8ef30f254
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722698445615
+status: 4
+tags: []
+user_id: dipak.bhandare

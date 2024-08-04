@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/899675162326840953/a51352e1ecc24532933926016b8bdfc4/artifacts
+end_time: 1722701873690
+entry_point_name: ''
+experiment_id: '899675162326840953'
+lifecycle_stage: active
+run_id: a51352e1ecc24532933926016b8bdfc4
+run_name: Decision_Tree_depth:30
+run_uuid: a51352e1ecc24532933926016b8bdfc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722701865924
+status: 3
+tags: []
+user_id: dipak.bhandare

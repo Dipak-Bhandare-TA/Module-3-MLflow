@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/899675162326840953/8fec30839a18420c9040044419adfd3d/artifacts
+deleted_time: 1722699143052
+end_time: 1722699070250
+entry_point_name: ''
+experiment_id: '899675162326840953'
+lifecycle_stage: deleted
+run_id: 8fec30839a18420c9040044419adfd3d
+run_name: awesome-ox-269
+run_uuid: 8fec30839a18420c9040044419adfd3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722699062736
+status: 3
+tags: []
+user_id: dipak.bhandare

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/899675162326840953/c3f2a3df6e41424085505c2d1d362c7e/artifacts
+deleted_time: 1722699458299
+end_time: 1722698480638
+entry_point_name: ''
+experiment_id: '899675162326840953'
+lifecycle_stage: deleted
+run_id: c3f2a3df6e41424085505c2d1d362c7e
+run_name: intrigued-cow-657
+run_uuid: c3f2a3df6e41424085505c2d1d362c7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722698461973
+status: 3
+tags: []
+user_id: dipak.bhandare

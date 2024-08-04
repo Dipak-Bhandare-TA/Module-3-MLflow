@@ -1,0 +1,15 @@
+{"feature":"median_income","Importance":0.4715636783}
+{"feature":"ocean_proximity_INLAND","Importance":0.1401750924}
+{"feature":"population_per_household","Importance":0.122386767}
+{"feature":"longitude","Importance":0.0678274035}
+{"feature":"latitude","Importance":0.0547413543}
+{"feature":"housing_median_age","Importance":0.0414012689}
+{"feature":"rooms_per_household","Importance":0.0265381643}
+{"feature":"bedrooms_per_room","Importance":0.0238955155}
+{"feature":"total_rooms","Importance":0.0140268193}
+{"feature":"households","Importance":0.0127368694}
+{"feature":"total_bedrooms","Importance":0.012661734}
+{"feature":"population","Importance":0.0094105972}
+{"feature":"ocean_proximity_NEAR OCEAN","Importance":0.0020886699}
+{"feature":"ocean_proximity_NEAR BAY","Importance":0.000546066}
+{"feature":"ocean_proximity_ISLAND","Importance":0.0}

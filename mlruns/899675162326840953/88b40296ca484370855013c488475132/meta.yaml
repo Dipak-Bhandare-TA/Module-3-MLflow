@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/899675162326840953/88b40296ca484370855013c488475132/artifacts
+end_time: 1722699452142
+entry_point_name: ''
+experiment_id: '899675162326840953'
+lifecycle_stage: active
+run_id: 88b40296ca484370855013c488475132
+run_name: Linear_Regression_Run
+run_uuid: 88b40296ca484370855013c488475132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722699444311
+status: 3
+tags: []
+user_id: dipak.bhandare

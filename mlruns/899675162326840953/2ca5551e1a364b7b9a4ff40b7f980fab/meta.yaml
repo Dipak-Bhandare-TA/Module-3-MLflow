@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/899675162326840953/2ca5551e1a364b7b9a4ff40b7f980fab/artifacts
+deleted_time: 1722702780427
+end_time: 1722702766785
+entry_point_name: ''
+experiment_id: '899675162326840953'
+lifecycle_stage: deleted
+run_id: 2ca5551e1a364b7b9a4ff40b7f980fab
+run_name: rambunctious-fox-346
+run_uuid: 2ca5551e1a364b7b9a4ff40b7f980fab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722702223925
+status: 3
+tags: []
+user_id: dipak.bhandare
